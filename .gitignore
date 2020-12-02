@@ -3,3 +3,4 @@
 
 # R/Rstudio files
 .Rhistory
+*.Rproj
