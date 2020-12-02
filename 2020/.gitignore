@@ -1,2 +1,5 @@
 # input files
 *.in
+
+# R/Rstudio files
+.Rhistory
