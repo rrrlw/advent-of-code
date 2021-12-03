@@ -1,5 +1,5 @@
 #####INPUT#####
-fin <- file("day1.in", open = "r")
+fin <- file("day01.in", open = "r")
 vals <- as.integer(readLines(fin))
 close(fin)
 
