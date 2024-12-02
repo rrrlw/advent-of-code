@@ -1,6 +1,9 @@
 # input files
 *.in
 
+# cpp object files
+*.out
+
 # R/Rstudio files
 .Rhistory
 *.Rproj
