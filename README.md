@@ -4,6 +4,14 @@
 
 *To be updated*
 
+### Legend
+
+| Symbol | Meaning |
+| ------------- | ------------- |
+| :red_circle: | Neither part completed |
+| :yellow_circle: | Part 1 completed |
+| :large_blue_circle: | Both parts completed |
+
 ### Progress
 
 | Event | Stars | Progress |
@@ -18,11 +26,3 @@
 | 2022 | 0 / 50 | :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: |
 | 2023 | 1 / 50 | :yellow_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: |
 | 2024 | 6 / 50 | :large_blue_circle: :large_blue_circle: :large_blue_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: <br> :red_circle: :red_circle: :red_circle: :red_circle: :red_circle: |
-
-### Legend
-
-| Symbol | Meaning |
-| ------------- | ------------- |
-| :red_circle: | Neither part completed |
-| :yellow_circle: | Part 1 completed |
-| :large_blue_circle: | Both parts completed |
